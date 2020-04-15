@@ -1,3 +1,4 @@
+Editing the code (Accepting details)
 /*Attendance Manager*/
 /*
 Made by
@@ -64,6 +65,7 @@ class Student extends User {
 	int rollNo;
 	String dept;
 	int attendance;
+	int GrNo;
 	
 	Student(){
 		
@@ -92,6 +94,9 @@ class Student extends User {
 	      
 		System.out.println("Enter Roll number:");
         rollNo = sc.nextInt();
+		
+		System.out.println("Enter Gr number:");
+        GrNo = sc.nextInt();
         sc.nextLine();
 
 	}
