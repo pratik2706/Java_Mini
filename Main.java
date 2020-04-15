@@ -1,5 +1,5 @@
-Editing the code (Accepting details)
-Reversing the edits in acceptdetails function of class Student extends User
+//Editing the code (Accepting details)
+//Reversing the edits in acceptdetails function of class Student extends User
 /*Attendance Manager*/
 /*
 Made by
